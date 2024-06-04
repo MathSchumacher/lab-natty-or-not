@@ -21,21 +21,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
-
+PODCAST_IA_GAMERS_DESCONECTADOS
 ## 📒 Descrição
 Breve descrição do seu projeto
-
+Fiz um podcast utilizando elevenlabs, audios prontos, o audacity para editar e juntar os audios, e o chatGPT pra criar o enredo
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
-
+Chat GPT e ElevenLabs
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
-
+Fiz uma descrição para o chatGPT "gere um podcast entre duas pessoas, mas em formato de texto, conversando sobre temas váriados de jogos, com elementos descontraidos piadas sobre os mesmos em momentos oportunos, podendo citar como exemplo Elden ring que está recebendo uma nova dlc, God of war ragnarok que está chegando para pc em setembro desse ano, ghost of tsushima e como foi sensação de jogar o jogo, e ambos interagindo". Então utilizei as falas geradas pra criar pequenos audios no ElevenLabs e fui baixando e juntando os resultados no audacity. Usei uma abertura pronta de podcast encontrada no youtube
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
-
+Ficou surpreendentemente bom
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
+foi muito divertido
 ```
 
 ### Exemplos e Insigths
